@@ -91,10 +91,3 @@ testimonial:
       designation : "CEO, Dialogue Broad Band"
       content : "Compré una crema, al principio mi cara se horneó con ella, después de un par de días dejó de usarla. La crema es bastante buena."
       rating : "five" # rating star, one to five
-           
-    # testimonial item loop
-    - name : "Kalista Tankara"
-      image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO Dialogue Broad Band"
-      content : "Usé loción corporal de esta marca, era demasiado ligera para mi piel seca. La misma crema, por el contrario, es muy "parafínica". Las ceramidas en la composición están en último lugar. Funciona muy bien como crema para manos y pies, pero para el rostro es mejor usar una loción ultrahidratante."
-      rating : "four" # rating star, one to five
