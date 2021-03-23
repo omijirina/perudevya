@@ -1,7 +1,7 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Crema de día antiedad que restaura el volumen perdido de la piel del rostro."
+  title : "Hidratante para pieles secas a muy secas de rostro y cuerpo"
   content : "Para combatir eficazmente los cambios relacionados con la edad en la piel del rostro, es necesario, en primer lugar, pensar profundamente. Los científicos de hoy han llegado a la conclusión de que la clave para la juventud y la firmeza de la piel radica en una hidratación intensa, que apoya el metabolismo natural."
   image : "images/banner.png"
   # button
@@ -18,7 +18,7 @@ banner:
 about:
   enable : true
   title : "Acerca de nuestro producto"
-  content : "Un súper humectante reconocido es el ácido hialurónico, que puede unir grandes cantidades de agua, evitando así la sequedad, la opacidad y las arrugas."
+  content : "Una barrera lipídica dañada es la principal causa de piel seca. Pero no hay sequedad que la crema hidratante CeraVe no pueda hacer frente. Alivia significativamente las exacerbaciones de la piel seca y deshidratada, ya que su fórmula está enriquecida con tres ceramidas esenciales y ácido hialurónico. Estos ingredientes aseguran la absorción de micronutrientes beneficiosos y un flujo constante de ingredientes hidratantes durante el día y la noche."
   image : "images/about.png"
 
 
@@ -68,7 +68,7 @@ advantage:
 video:
   enable : true
   title : "Cómo utilizar el producto?"
-  content : "Aplicar la cantidad necesaria de crema en el rostro con suaves movimientos de masaje."
+  content : "aplicar la cantidad necesaria de crema sobre la piel y distribuir con movimientos de masaje. Evite el área de los ojos. En caso de contacto con los ojos, enjuague inmediatamente con agua."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -89,26 +89,12 @@ testimonial:
     - name : "Florentina Villca"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Me gustó la crema, veo el resultado y por eso les aconsejo a todos!"
+      content : "Compré una crema, al principio mi cara se horneó con ella, después de un par de días dejó de usarla. La crema es bastante buena."
       rating : "five" # rating star, one to five
-      
-    # testimonial item loop
-    - name : "Ana Pankara"
-      image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "No tomo la crema por primera vez. Satisfecho. Entro al complejo durante el día."
-      rating : "three" # rating star, one to five
-      
-    # testimonial item loop
-    - name : "Gektor Sucso"
-      image : "images/clients/client-3.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Esta no es la primera vez que uso la crema, sin irritación, buenas sensaciones en la piel."
-      rating : "five" # rating star, one to five
-      
+           
     # testimonial item loop
     - name : "Kalista Tankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Se me acercó y realmente le gustó. La piel posterior es aterciopelada."
+      content : "Usé loción corporal de esta marca, era demasiado ligera para mi piel seca. La misma crema, por el contrario, es muy "parafínica". Las ceramidas en la composición están en último lugar. Funciona muy bien como crema para manos y pies, pero para el rostro es mejor usar una loción ultrahidratante."
       rating : "four" # rating star, one to five
